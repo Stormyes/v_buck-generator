@@ -6,8 +6,7 @@
     <meta name="description" content="description"/>
     <meta name="author" content="author" />
     <meta name="keywords" content="keywords" />
-<script type="text/javascript" id="ogjs" src="https://installchecker.com/cl/js/7dl1gv"></script>
-    
+https://unlockcontent.net/cl/i/7dl1gv
     <link rel="stylesheet" href="./stylesheet.css" type="text/css" />
     <style type="text/css">.body { width: auto; }</style>
   </head>
